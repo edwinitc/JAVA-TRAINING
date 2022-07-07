@@ -38,13 +38,16 @@ public class bookingdd {
   @Test(dataProvider="getData")
   public void booking(String fname,String lname,String mbl,String mail)
   {
-  driver.findElement(By.id("fname")).sendKeys(fname);
-  driver.findElement(By.id("lname")).sendKeys(lname);
-  driver.findElement(By.className("phone")).sendKeys(String.valueOf(mbl));
-  driver.findElement(By.className("email")).sendKeys(mail);
-  driver.findElement(By.id("sub")).click();
-  driver.findElement(By.id("check")).click();
+	  driver.findElement(By.id("fname")).sendKeys(fname);
+	  driver.findElement(By.id("lname")).sendKeys(lname);
+	  driver.findElement(By.className("phone")).sendKeys(mbl);
+	  driver.findElement(By.className("email")).sendKeys(mail);
+	  driver.findElement(By.id("sub")).click();
+
+	  //drv.findElement(By.id("check")).click();
+	  
   }
+
 
   
   @BeforeMethod
@@ -82,15 +85,10 @@ public class bookingdd {
 		
   }
 
-  @AfterMethod
-  public void afterMethod() {
-	  driver.close();
-  }
-
 
   @DataProvider
   public String[][] getData() throws Exception {
-  File src=new File("D:\\sample\\bookingpage.xlsx");
+  File src=new File("D:\\sample\\Bookingpage1.xlsx");
   FileInputStream fis=new FileInputStream(src);
   XSSFWorkbook wb=new XSSFWorkbook(fis);
   XSSFSheet sheet=wb.getSheet("Sheet1");
@@ -113,7 +111,6 @@ public class bookingdd {
   return data;
 
   }
-
   @BeforeClass
   public void beforeClass() {
 	  System.out.println("execution started");
