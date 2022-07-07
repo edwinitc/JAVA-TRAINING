@@ -1,0 +1,177 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results total="13" passed="13" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-07-07T10:01:59Z" name="Default suite" finished-at="2022-07-07T10:03:51Z" duration-ms="111986">
+    <groups>
+    </groups>
+    <test started-at="2022-07-07T10:01:59Z" name="Default test" finished-at="2022-07-07T10:03:51Z" duration-ms="111986">
+      <class name="testngs.bookings">
+        <test-method is-config="true" signature="bc()[pri:0, instance:testngs.bookings@61eaec38]" started-at="2022-07-07T15:31:59Z" name="bc" finished-at="2022-07-07T15:31:59Z" duration-ms="9" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- bc -->
+        <test-method is-config="true" signature="beforeMethods()[pri:0, instance:testngs.bookings@61eaec38]" started-at="2022-07-07T15:31:59Z" name="beforeMethods" finished-at="2022-07-07T15:32:02Z" duration-ms="2560" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethods -->
+        <test-method signature="bk1()[pri:0, instance:testngs.bookings@61eaec38]" started-at="2022-07-07T15:32:02Z" name="bk1" finished-at="2022-07-07T15:32:23Z" duration-ms="21508" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- bk1 -->
+        <test-method is-config="true" signature="afterMethod()[pri:0, instance:testngs.bookings@61eaec38]" started-at="2022-07-07T15:32:23Z" name="afterMethod" finished-at="2022-07-07T15:32:25Z" duration-ms="1685" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method is-config="true" signature="beforeMethods()[pri:0, instance:testngs.bookings@61eaec38]" started-at="2022-07-07T15:32:25Z" name="beforeMethods" finished-at="2022-07-07T15:32:26Z" duration-ms="1641" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethods -->
+        <test-method signature="bk10()[pri:0, instance:testngs.bookings@61eaec38]" started-at="2022-07-07T15:32:26Z" name="bk10" finished-at="2022-07-07T15:32:29Z" duration-ms="2721" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- bk10 -->
+        <test-method is-config="true" signature="afterMethod()[pri:0, instance:testngs.bookings@61eaec38]" started-at="2022-07-07T15:32:29Z" name="afterMethod" finished-at="2022-07-07T15:32:31Z" duration-ms="1623" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method is-config="true" signature="beforeMethods()[pri:0, instance:testngs.bookings@61eaec38]" started-at="2022-07-07T15:32:31Z" name="beforeMethods" finished-at="2022-07-07T15:32:33Z" duration-ms="1787" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethods -->
+        <test-method signature="bk11()[pri:0, instance:testngs.bookings@61eaec38]" started-at="2022-07-07T15:32:33Z" name="bk11" finished-at="2022-07-07T15:32:36Z" duration-ms="3793" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- bk11 -->
+        <test-method is-config="true" signature="afterMethod()[pri:0, instance:testngs.bookings@61eaec38]" started-at="2022-07-07T15:32:36Z" name="afterMethod" finished-at="2022-07-07T15:32:38Z" duration-ms="1654" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method is-config="true" signature="beforeMethods()[pri:0, instance:testngs.bookings@61eaec38]" started-at="2022-07-07T15:32:38Z" name="beforeMethods" finished-at="2022-07-07T15:32:40Z" duration-ms="1717" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethods -->
+        <test-method signature="bk12()[pri:0, instance:testngs.bookings@61eaec38]" started-at="2022-07-07T15:32:40Z" name="bk12" finished-at="2022-07-07T15:32:43Z" duration-ms="2984" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- bk12 -->
+        <test-method is-config="true" signature="afterMethod()[pri:0, instance:testngs.bookings@61eaec38]" started-at="2022-07-07T15:32:43Z" name="afterMethod" finished-at="2022-07-07T15:32:44Z" duration-ms="1648" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method is-config="true" signature="beforeMethods()[pri:0, instance:testngs.bookings@61eaec38]" started-at="2022-07-07T15:32:44Z" name="beforeMethods" finished-at="2022-07-07T15:32:46Z" duration-ms="1713" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethods -->
+        <test-method signature="bk13()[pri:0, instance:testngs.bookings@61eaec38]" started-at="2022-07-07T15:32:46Z" name="bk13" finished-at="2022-07-07T15:32:50Z" duration-ms="3790" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- bk13 -->
+        <test-method is-config="true" signature="afterMethod()[pri:0, instance:testngs.bookings@61eaec38]" started-at="2022-07-07T15:32:50Z" name="afterMethod" finished-at="2022-07-07T15:32:52Z" duration-ms="1668" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method is-config="true" signature="beforeMethods()[pri:0, instance:testngs.bookings@61eaec38]" started-at="2022-07-07T15:32:52Z" name="beforeMethods" finished-at="2022-07-07T15:32:54Z" duration-ms="2119" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethods -->
+        <test-method signature="bk2()[pri:0, instance:testngs.bookings@61eaec38]" started-at="2022-07-07T15:32:54Z" name="bk2" finished-at="2022-07-07T15:32:58Z" duration-ms="4496" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- bk2 -->
+        <test-method is-config="true" signature="afterMethod()[pri:0, instance:testngs.bookings@61eaec38]" started-at="2022-07-07T15:32:58Z" name="afterMethod" finished-at="2022-07-07T15:33:00Z" duration-ms="1678" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method is-config="true" signature="beforeMethods()[pri:0, instance:testngs.bookings@61eaec38]" started-at="2022-07-07T15:33:00Z" name="beforeMethods" finished-at="2022-07-07T15:33:02Z" duration-ms="1812" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethods -->
+        <test-method signature="bk3()[pri:0, instance:testngs.bookings@61eaec38]" started-at="2022-07-07T15:33:02Z" name="bk3" finished-at="2022-07-07T15:33:08Z" duration-ms="5977" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- bk3 -->
+        <test-method is-config="true" signature="afterMethod()[pri:0, instance:testngs.bookings@61eaec38]" started-at="2022-07-07T15:33:08Z" name="afterMethod" finished-at="2022-07-07T15:33:09Z" duration-ms="1667" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method is-config="true" signature="beforeMethods()[pri:0, instance:testngs.bookings@61eaec38]" started-at="2022-07-07T15:33:09Z" name="beforeMethods" finished-at="2022-07-07T15:33:11Z" duration-ms="1661" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethods -->
+        <test-method signature="bk4()[pri:0, instance:testngs.bookings@61eaec38]" started-at="2022-07-07T15:33:11Z" name="bk4" finished-at="2022-07-07T15:33:15Z" duration-ms="3669" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- bk4 -->
+        <test-method is-config="true" signature="afterMethod()[pri:0, instance:testngs.bookings@61eaec38]" started-at="2022-07-07T15:33:15Z" name="afterMethod" finished-at="2022-07-07T15:33:16Z" duration-ms="1667" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method is-config="true" signature="beforeMethods()[pri:0, instance:testngs.bookings@61eaec38]" started-at="2022-07-07T15:33:16Z" name="beforeMethods" finished-at="2022-07-07T15:33:18Z" duration-ms="1770" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethods -->
+        <test-method signature="bk5()[pri:0, instance:testngs.bookings@61eaec38]" started-at="2022-07-07T15:33:18Z" name="bk5" finished-at="2022-07-07T15:33:21Z" duration-ms="2964" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- bk5 -->
+        <test-method is-config="true" signature="afterMethod()[pri:0, instance:testngs.bookings@61eaec38]" started-at="2022-07-07T15:33:21Z" name="afterMethod" finished-at="2022-07-07T15:33:23Z" duration-ms="1649" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method is-config="true" signature="beforeMethods()[pri:0, instance:testngs.bookings@61eaec38]" started-at="2022-07-07T15:33:23Z" name="beforeMethods" finished-at="2022-07-07T15:33:24Z" duration-ms="1662" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethods -->
+        <test-method signature="bk6()[pri:0, instance:testngs.bookings@61eaec38]" started-at="2022-07-07T15:33:24Z" name="bk6" finished-at="2022-07-07T15:33:28Z" duration-ms="3794" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- bk6 -->
+        <test-method is-config="true" signature="afterMethod()[pri:0, instance:testngs.bookings@61eaec38]" started-at="2022-07-07T15:33:28Z" name="afterMethod" finished-at="2022-07-07T15:33:30Z" duration-ms="1626" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method is-config="true" signature="beforeMethods()[pri:0, instance:testngs.bookings@61eaec38]" started-at="2022-07-07T15:33:30Z" name="beforeMethods" finished-at="2022-07-07T15:33:32Z" duration-ms="1814" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethods -->
+        <test-method signature="bk7()[pri:0, instance:testngs.bookings@61eaec38]" started-at="2022-07-07T15:33:32Z" name="bk7" finished-at="2022-07-07T15:33:35Z" duration-ms="3106" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- bk7 -->
+        <test-method is-config="true" signature="afterMethod()[pri:0, instance:testngs.bookings@61eaec38]" started-at="2022-07-07T15:33:35Z" name="afterMethod" finished-at="2022-07-07T15:33:36Z" duration-ms="1628" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method is-config="true" signature="beforeMethods()[pri:0, instance:testngs.bookings@61eaec38]" started-at="2022-07-07T15:33:36Z" name="beforeMethods" finished-at="2022-07-07T15:33:39Z" duration-ms="2276" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethods -->
+        <test-method signature="bk8()[pri:0, instance:testngs.bookings@61eaec38]" started-at="2022-07-07T15:33:39Z" name="bk8" finished-at="2022-07-07T15:33:42Z" duration-ms="3201" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- bk8 -->
+        <test-method is-config="true" signature="afterMethod()[pri:0, instance:testngs.bookings@61eaec38]" started-at="2022-07-07T15:33:42Z" name="afterMethod" finished-at="2022-07-07T15:33:43Z" duration-ms="1692" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method is-config="true" signature="beforeMethods()[pri:0, instance:testngs.bookings@61eaec38]" started-at="2022-07-07T15:33:43Z" name="beforeMethods" finished-at="2022-07-07T15:33:45Z" duration-ms="1864" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethods -->
+        <test-method signature="bk9()[pri:0, instance:testngs.bookings@61eaec38]" started-at="2022-07-07T15:33:45Z" name="bk9" finished-at="2022-07-07T15:33:49Z" duration-ms="4003" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- bk9 -->
+        <test-method is-config="true" signature="afterMethod()[pri:0, instance:testngs.bookings@61eaec38]" started-at="2022-07-07T15:33:49Z" name="afterMethod" finished-at="2022-07-07T15:33:51Z" duration-ms="1646" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method is-config="true" signature="ac()[pri:0, instance:testngs.bookings@61eaec38]" started-at="2022-07-07T15:33:51Z" name="ac" finished-at="2022-07-07T15:33:51Z" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ac -->
+      </class> <!-- testngs.bookings -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
